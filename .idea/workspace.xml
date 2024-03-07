@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9661d202-12b6-4b3b-b45d-8a836783afd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.9.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dL89rfuWF5mHwasiCZJnCoWLWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CitaionTest.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.RuntimeDemo.executor": "Run",
+    "Application.client.executor": "Run",
+    "Application.com.sigma429.pattern.builder.demo2.Client.executor": "Run",
+    "Application.com.sigma429.pattern.prototype.test1.CitaionTest.executor": "Run",
+    "Application.com.sigma429.pattern.singleton.demo2.Client.executor": "Run",
+    "Application.com.sigma429.pattern.singleton.demo3.Client.executor": "Run",
+    "Application.com.sigma429.pattern.singleton.demo4.Client.executor": "Run",
+    "Application.com.sigma429.pattern.singleton.demo5.Client.executor": "Run",
+    "Application.com.sigma429.pattern.singleton.demo6.Client.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/builder/demo2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33448276",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\builder\demo2" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\builder\demo1" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\prototype" />
+      <recent name="D:\code\design_patterns\src\main\resources" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\factory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\design_patterns\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sigma429.pattern.builder.demo1" />
+      <recent name="com.sigma429.pattern.factory.factory_method" />
+      <recent name="com.sigma429.pattern.singleton.demo9" />
+      <recent name="com.sigma429.pattern.singleton.demo7" />
+      <recent name="com.sigma429.pattern.singleton.demo6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.sigma429.pattern.builder.demo2.Client">
+    <configuration name="CitaionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.prototype.test.CitaionTest" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.prototype.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuntimeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.singleton.demo9.RuntimeDemo" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.singleton.demo9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.prototype.demo.client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.prototype.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sigma429.pattern.builder.demo2.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.builder.demo2.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.builder.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sigma429.pattern.prototype.test1.CitaionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.prototype.test1.CitaionTest" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.prototype.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.sigma429.pattern.builder.demo2.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.prototype.test1.CitaionTest" />
+        <item itemvalue="Application.CitaionTest" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.RuntimeDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9661d202-12b6-4b3b-b45d-8a836783afd4" name="Changes" comment="" />
+      <created>1709775850091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709775850091</updated>
+      <workItem from="1709775851288" duration="11767000" />
+      <workItem from="1709811914563" duration="3170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
