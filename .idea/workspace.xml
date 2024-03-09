@@ -5,7 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9661d202-12b6-4b3b-b45d-8a836783afd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/SDAdapterTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/SDCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/TFCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/class_adapter/TFCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/SDAdapterTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/SDCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/TFCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/adapter/object_adapter/TFCardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/AviFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/OpratingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/RmvbFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/VideoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/bridge/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/Bacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/Egg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/FastFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/FriedNoodles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/FriedRice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/decorator/Garnish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/facade/AirCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/facade/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/facade/SmartAppliancesFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/facade/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/cglib_proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/cglib_proxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/cglib_proxy/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/jdk_proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/jdk_proxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/jdk_proxy/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/jdk_proxy/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/static_proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/static_proxy/ProxyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/static_proxy/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/proxy/static_proxy/TrainStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +66,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,7 +91,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2dL89rfuWF5mHwasiCZJnCoWLWN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -51,18 +104,24 @@
     "Application.Client.executor": "Run",
     "Application.RuntimeDemo.executor": "Run",
     "Application.client.executor": "Run",
+    "Application.com.sigma429.pattern.adapter.class_adapter.Client.executor": "Run",
+    "Application.com.sigma429.pattern.adapter.object_adapter.Client.executor": "Run",
     "Application.com.sigma429.pattern.builder.demo2.Client.executor": "Run",
+    "Application.com.sigma429.pattern.decorator.Client.executor": "Run",
     "Application.com.sigma429.pattern.prototype.test1.CitaionTest.executor": "Run",
+    "Application.com.sigma429.pattern.proxy.cglib_proxy.Client.executor": "Run",
+    "Application.com.sigma429.pattern.proxy.jdk_proxy.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo2.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo3.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo4.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo5.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo6.Client.executor": "Run",
+    "JUnit.demo.test.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/builder/demo2",
+    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/facade",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,30 +136,30 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\builder\demo2" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\builder\demo1" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\prototype" />
-      <recent name="D:\code\design_patterns\src\main\resources" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\factory" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\facade" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\decorator" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\adapter\object_adapter" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\proxy\cglib_proxy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\design_patterns\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sigma429.pattern.adapter.class_adapter" />
+      <recent name="com.sigma429.pattern.proxy.cglib_proxy" />
+      <recent name="com.sigma429.pattern.proxy.jdk_proxy" />
       <recent name="com.sigma429.pattern.builder.demo1" />
       <recent name="com.sigma429.pattern.factory.factory_method" />
-      <recent name="com.sigma429.pattern.singleton.demo9" />
-      <recent name="com.sigma429.pattern.singleton.demo7" />
-      <recent name="com.sigma429.pattern.singleton.demo6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sigma429.pattern.builder.demo2.Client">
-    <configuration name="CitaionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.prototype.test.CitaionTest" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.facade.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.prototype.test.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.singleton.demo9.RuntimeDemo" />
+    <configuration name="com.sigma429.pattern.adapter.class_adapter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.adapter.class_adapter.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.singleton.demo9.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.adapter.class_adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.prototype.demo.client" />
+    <configuration name="com.sigma429.pattern.adapter.object_adapter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.adapter.object_adapter.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.prototype.demo.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.adapter.object_adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.builder.demo2.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.builder.demo2.Client" />
+    <configuration name="com.sigma429.pattern.decorator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.decorator.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.builder.demo2.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.prototype.test1.CitaionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.prototype.test1.CitaionTest" />
+    <configuration name="com.sigma429.pattern.proxy.jdk_proxy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.proxy.jdk_proxy.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.prototype.test1.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.proxy.jdk_proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.sigma429.pattern.builder.demo2.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.prototype.test1.CitaionTest" />
-        <item itemvalue="Application.CitaionTest" />
-        <item itemvalue="Application.client" />
-        <item itemvalue="Application.RuntimeDemo" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.decorator.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.adapter.object_adapter.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.adapter.class_adapter.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.proxy.jdk_proxy.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -186,16 +245,38 @@
       <option name="presentableId" value="Default" />
       <updated>1709775850091</updated>
       <workItem from="1709775851288" duration="11767000" />
-      <workItem from="1709811914563" duration="3170000" />
+      <workItem from="1709811914563" duration="3582000" />
+      <workItem from="1709821615182" duration="547000" />
+      <workItem from="1709822175050" duration="12000" />
+      <workItem from="1709882676684" duration="5016000" />
+      <workItem from="1709951443644" duration="12121000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ListNode" memberName="val" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
