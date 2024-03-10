@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9661d202-12b6-4b3b-b45d-8a836783afd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/combination/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/combination/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/combination/MenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/combination/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/AbstractBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/BoxFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/IBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/LBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/OBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/flyweight/jdk/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/command/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/command/OrderCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/command/SeniorChef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/command/Waitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/strategy/SalesMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/strategy/StrategyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/strategy/StrategyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/strategy/StrategyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/template/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/template/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/template/ConcreteClass_BaoCai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/template/ConcreteClass_CaiXin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +83,7 @@
     "Application.com.sigma429.pattern.adapter.object_adapter.Client.executor": "Run",
     "Application.com.sigma429.pattern.builder.demo2.Client.executor": "Run",
     "Application.com.sigma429.pattern.combination.Client.executor": "Run",
+    "Application.com.sigma429.pattern.command.Client.executor": "Run",
     "Application.com.sigma429.pattern.decorator.Client.executor": "Run",
     "Application.com.sigma429.pattern.flyweight.Client.executor": "Run",
     "Application.com.sigma429.pattern.prototype.test1.CitaionTest.executor": "Run",
@@ -85,12 +94,14 @@
     "Application.com.sigma429.pattern.singleton.demo4.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo5.Client.executor": "Run",
     "Application.com.sigma429.pattern.singleton.demo6.Client.executor": "Run",
+    "Application.com.sigma429.pattern.template.Client.executor": "Run",
+    "JUnit.DemoTest.test.executor": "Debug",
     "JUnit.demo.test.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/flyweight",
+    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/command",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -105,30 +116,30 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\command" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\strategy" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\template" />
       <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\flyweight" />
       <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\facade" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\decorator" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\adapter\object_adapter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\design_patterns\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sigma429.pattern.command" />
+      <recent name="com.sigma429.pattern.strategy" />
+      <recent name="com.sigma429.pattern.template" />
       <recent name="com.sigma429.pattern.adapter.class_adapter" />
       <recent name="com.sigma429.pattern.proxy.cglib_proxy" />
-      <recent name="com.sigma429.pattern.proxy.jdk_proxy" />
-      <recent name="com.sigma429.pattern.builder.demo1" />
-      <recent name="com.sigma429.pattern.factory.factory_method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.com.sigma429.pattern.command.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.facade.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.strategy.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.facade.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.combination.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.combination.Client" />
+    <configuration name="com.sigma429.pattern.command.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.command.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.combination.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.decorator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.decorator.Client" />
+    <configuration name="com.sigma429.pattern.template.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.template.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.decorator.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,26 +186,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.flyweight.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.flyweight.Client" />
+    <configuration name="DemoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.flyweight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.com.sigma429.pattern.flyweight.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.combination.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.command.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.decorator.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.template.Client" />
+        <item itemvalue="JUnit.DemoTest.test" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +226,10 @@
       <workItem from="1709821615182" duration="547000" />
       <workItem from="1709822175050" duration="12000" />
       <workItem from="1709882676684" duration="5016000" />
-      <workItem from="1709951443644" duration="16500000" />
+      <workItem from="1709951443644" duration="18109000" />
+      <workItem from="1710048493202" duration="890000" />
+      <workItem from="1710051221255" duration="16000" />
+      <workItem from="1710061475454" duration="6264000" />
     </task>
     <servers />
   </component>
