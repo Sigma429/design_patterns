@@ -1,5 +1,7 @@
 import org.junit.Test;
 
+import java.util.ArrayList;
+
 /**
  * ClassName:DemoTest
  * Package:PACKAGE_NAME
