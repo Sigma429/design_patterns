@@ -5,48 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9661d202-12b6-4b3b-b45d-8a836783afd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/iterator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/iterator/StudentAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/iterator/StudentAggregateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/iterator/StudentIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/iterator/StudentIteratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/mediator/HouseOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/mediator/MediatorStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/mediator/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/mediator/Tenant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/observer/SubscriptionSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/observer/WeiXinUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/GeneralManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/GroupLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/LeaveRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/FilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/FirstFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/responsibility/jdk/SecondFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/ClosingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/LiftState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/OpeningState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/RunningState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/after/StoppingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/before/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/before/ILift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/state/before/Lift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/GameRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/RoleStateCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/GameRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/RoleStateCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/RoleStateMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Someone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +89,8 @@
     "Application.com.sigma429.pattern.command.Client.executor": "Run",
     "Application.com.sigma429.pattern.decorator.Client.executor": "Run",
     "Application.com.sigma429.pattern.flyweight.Client.executor": "Run",
+    "Application.com.sigma429.pattern.interpreter.Client.executor": "Run",
+    "Application.com.sigma429.pattern.memento.white_box.Client.executor": "Run",
     "Application.com.sigma429.pattern.observer.Client.executor": "Run",
     "Application.com.sigma429.pattern.prototype.test1.CitaionTest.executor": "Run",
     "Application.com.sigma429.pattern.proxy.cglib_proxy.Client.executor": "Run",
@@ -121,13 +104,14 @@
     "Application.com.sigma429.pattern.singleton.demo6.Client.executor": "Run",
     "Application.com.sigma429.pattern.state.before.Client.executor": "Run",
     "Application.com.sigma429.pattern.template.Client.executor": "Run",
+    "Application.com.sigma429.pattern.visitor.Client.executor": "Run",
     "JUnit.DemoTest.test.executor": "Debug",
     "JUnit.demo.test.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/mediator",
+    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/interpreter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -142,11 +126,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\mediator" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\observer" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\state\after" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\state\before" />
-      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\responsibility" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\interpreter" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\memento" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\memento\white_box" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\visitor" />
+      <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\design_patterns\src\main\resources" />
@@ -159,13 +143,39 @@
       <recent name="com.sigma429.pattern.responsibility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.com.sigma429.pattern.interpreter.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.iterator.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sigma429.pattern.iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sigma429.pattern.interpreter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.interpreter.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sigma429.pattern.memento.white_box.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.memento.white_box.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.pattern.memento.white_box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,38 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.responsibility.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.responsibility.Client" />
+    <configuration name="com.sigma429.pattern.visitor.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.visitor.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.responsibility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.sigma429.pattern.responsibility.jdk.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.responsibility.jdk.Client" />
-      <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.responsibility.jdk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.sigma429.pattern.state.before.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.state.before.Client" />
-      <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.state.before.*" />
+          <option name="PATTERN" value="com.sigma429.pattern.visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sigma429.pattern.interpreter.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.memento.white_box.Client" />
+        <item itemvalue="Application.com.sigma429.pattern.visitor.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.com.sigma429.pattern.observer.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.state.before.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.responsibility.jdk.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.responsibility.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +244,7 @@
       <workItem from="1710051221255" duration="16000" />
       <workItem from="1710061475454" duration="7871000" />
       <workItem from="1710127471521" duration="18581000" />
+      <workItem from="1710218049922" duration="8556000" />
     </task>
     <servers />
   </component>
