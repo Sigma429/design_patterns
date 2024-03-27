@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9661d202-12b6-4b3b-b45d-8a836783afd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/AbstractExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Minus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/interpreter/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/GameRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/black_box/RoleStateCaretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/GameRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/RoleStateCaretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/memento/white_box/RoleStateMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sigma429/pattern/visitor/Someone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ListNode.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +28,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="Test.test7" />
+    </enabled-run-configurations>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,55 +60,61 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CitaionTest.executor": "Run",
-    "Application.Client.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.RuntimeDemo.executor": "Run",
-    "Application.client.executor": "Run",
-    "Application.com.sigma429.pattern.adapter.class_adapter.Client.executor": "Run",
-    "Application.com.sigma429.pattern.adapter.object_adapter.Client.executor": "Run",
-    "Application.com.sigma429.pattern.builder.demo2.Client.executor": "Run",
-    "Application.com.sigma429.pattern.combination.Client.executor": "Run",
-    "Application.com.sigma429.pattern.command.Client.executor": "Run",
-    "Application.com.sigma429.pattern.decorator.Client.executor": "Run",
-    "Application.com.sigma429.pattern.flyweight.Client.executor": "Run",
-    "Application.com.sigma429.pattern.interpreter.Client.executor": "Run",
-    "Application.com.sigma429.pattern.memento.white_box.Client.executor": "Run",
-    "Application.com.sigma429.pattern.observer.Client.executor": "Run",
-    "Application.com.sigma429.pattern.prototype.test1.CitaionTest.executor": "Run",
-    "Application.com.sigma429.pattern.proxy.cglib_proxy.Client.executor": "Run",
-    "Application.com.sigma429.pattern.proxy.jdk_proxy.Client.executor": "Run",
-    "Application.com.sigma429.pattern.responsibility.Client.executor": "Run",
-    "Application.com.sigma429.pattern.responsibility.jdk.Client.executor": "Run",
-    "Application.com.sigma429.pattern.singleton.demo2.Client.executor": "Run",
-    "Application.com.sigma429.pattern.singleton.demo3.Client.executor": "Run",
-    "Application.com.sigma429.pattern.singleton.demo4.Client.executor": "Run",
-    "Application.com.sigma429.pattern.singleton.demo5.Client.executor": "Run",
-    "Application.com.sigma429.pattern.singleton.demo6.Client.executor": "Run",
-    "Application.com.sigma429.pattern.state.before.Client.executor": "Run",
-    "Application.com.sigma429.pattern.template.Client.executor": "Run",
-    "Application.com.sigma429.pattern.visitor.Client.executor": "Run",
-    "JUnit.DemoTest.test.executor": "Debug",
-    "JUnit.demo.test.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/design_patterns/src/main/java/com/sigma429/pattern/interpreter",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.33448276",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CitaionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RuntimeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.adapter.class_adapter.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.adapter.object_adapter.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.builder.demo2.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.combination.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.command.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.decorator.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.flyweight.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.interpreter.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.memento.white_box.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.observer.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.prototype.test1.CitaionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.proxy.cglib_proxy.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.proxy.jdk_proxy.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.responsibility.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.responsibility.jdk.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.singleton.demo2.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.singleton.demo3.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.singleton.demo4.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.singleton.demo5.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.singleton.demo6.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.state.before.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.template.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sigma429.pattern.visitor.Client.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DemoTest.test.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Test.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test.test3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test.test4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test.test6.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test.test7.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.demo.test.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/design_patterns/src/main/java/com/sigma429/pattern/interpreter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.33448276&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\design_patterns\src\main\java\com\sigma429\pattern\interpreter" />
@@ -143,85 +134,71 @@
       <recent name="com.sigma429.pattern.responsibility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sigma429.pattern.interpreter.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.iterator.Client" />
+  <component name="RunManager" selected="JUnit.Test.test7">
+    <configuration name="Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.interpreter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.interpreter.Client" />
+    <configuration name="Test.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.interpreter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.memento.white_box.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.memento.white_box.Client" />
+    <configuration name="Test.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.memento.white_box.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.observer.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.observer.Client" />
+    <configuration name="Test.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sigma429.pattern.visitor.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sigma429.pattern.visitor.Client" />
+    <configuration name="Test.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sigma429.pattern.visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.sigma429.pattern.interpreter.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.memento.white_box.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.visitor.Client" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.com.sigma429.pattern.observer.Client" />
+        <item itemvalue="JUnit.Test.test7" />
+        <item itemvalue="JUnit.Test.test6" />
+        <item itemvalue="JUnit.Test.test4" />
+        <item itemvalue="JUnit.Test.test3" />
+        <item itemvalue="JUnit.Test.test1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-3183f394aec4-cb300fc7" />
         <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
       </set>
     </attachedChunks>
@@ -244,7 +221,10 @@
       <workItem from="1710051221255" duration="16000" />
       <workItem from="1710061475454" duration="7871000" />
       <workItem from="1710127471521" duration="18581000" />
-      <workItem from="1710218049922" duration="8556000" />
+      <workItem from="1710218049922" duration="9235000" />
+      <workItem from="1710760689657" duration="3287000" />
+      <workItem from="1711003854075" duration="2875000" />
+      <workItem from="1711502871952" duration="107000" />
     </task>
     <servers />
   </component>
